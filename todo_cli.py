@@ -9,7 +9,7 @@ class ToDoList:
     - add items
     - remove items
     - print the list
-    - write list contents to a persistent text file
+    - write list contents to a text file
     - manage and sort by item priority
     - attach deadlines to list items using datetimes (and sort by deadline)
     """
